@@ -9,8 +9,6 @@ Here we will show you how to customize:
 * App Name
 * Colors
 
-
-
 ## Important
 
 * This document is updated after every release, so we can guarantee it's stable for production
@@ -353,8 +351,6 @@ Here we will show you how to customize:
 
 ![](../../../.gitbook/assets/30.png)
 
-#### 
-
 #### Development SSL Certificate
 
 * On “Development SSL Certificate”, click “Create Certificate”
@@ -392,6 +388,4 @@ Here we will show you how to customize:
 ![](https://lh3.googleusercontent.com/WCLBhK5CneauBC7xQH3atoiHS3HE9YvJ7IaC5hCdGQVh3sx8CtF2u4vjcBc1e-LVl0zWXTwhrXzct8HcGLAk6D3A7eZHYiVHTzsAGdMNZ2jGADKi0jwXFiYoVhOyytvfiRqm4HuV)
 
 * For simplicity, save it in the same folder of your CSR and .cer. You’ll need it later.
-
-
 

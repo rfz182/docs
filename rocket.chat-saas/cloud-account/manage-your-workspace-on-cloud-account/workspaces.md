@@ -22,7 +22,7 @@ If you want to have multiple cloud workspaces under the same cloud account, plea
 
 A restart of the server is recommended when facing small performance issues, e.g., messages are slow, messages are greyed-out.
 
-To restart your workspace: 
+To restart your workspace:
 
 ![](../../../.gitbook/assets/image%20%28203%29.png)
 
@@ -36,8 +36,6 @@ Only cloud customers can cancel their workspaces. Self-managed customers can not
 
 If you want to stop using the SaaS service, you can go ahead and cancel it, as shown below:
 
- 
-
 ![](../../../.gitbook/assets/image%20%28201%29.png)
 
 ![](../../../.gitbook/assets/image%20%28204%29.png)
@@ -47,7 +45,7 @@ Reload and the Status shows it's '**canceling'**. The status should remain '**ca
 ![](../../../.gitbook/assets/image%20%28202%29.png)
 
 {% hint style="info" %}
-If you change your mind within 15 days of your workspace getting canceled, please reach out to us at [support@rocket.chat](mailto:support@rocket.chat) to get your workspace revived. After 15 days you will have to create a new one. 
+If you change your mind within 15 days of your workspace getting canceled, please reach out to us at [support@rocket.chat](mailto:support@rocket.chat) to get your workspace revived. After 15 days you will have to create a new one.
 {% endhint %}
 
 ## Update Workspace
@@ -60,8 +58,6 @@ Choose the version from the latest two versions, as shown below:
 
 ![](../../../.gitbook/assets/image%20%28206%29.png)
 
-
-
 ![](../../../.gitbook/assets/image%20%28200%29.png)
 
 ## Workspace Details
@@ -70,13 +66,11 @@ If you click on a workspace, you can check the following details.
 
 ![](../../../.gitbook/assets/image%20%28126%29.png)
 
-#### 
-
 {% hint style="info" %}
 After your first sign up, you are given a 14 days' trial of the **Gold** plan. On the 15th day, you are charged according to your chosen plan.
 {% endhint %}
 
-##  Upgrade/Downgrade your Plan
+## Upgrade/Downgrade your Plan
 
 To upgrade/downgrade your plan:
 
@@ -84,11 +78,11 @@ To upgrade/downgrade your plan:
 
 ![](../../../.gitbook/assets/image%20%28147%29.png)
 
-2. Select your desired plan.
+1. Select your desired plan.
 
 ![](../../../.gitbook/assets/image%20%28149%29.png)
 
-Your new plan is in place. 
+Your new plan is in place.
 
 ![](../../../.gitbook/assets/image%20%28148%29.png)
 

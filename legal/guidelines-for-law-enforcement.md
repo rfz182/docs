@@ -71,7 +71,7 @@ Rocket.Chat is a platform and the interaction between individuals on the platfor
 
 _firstname.lastname_
 
-These accounts are unique to the deployed instance of the Rocket.Chat platform. So if information is requested for an individual user account of the platform, this information goes only as far as the scope of that specific, individual instance of Rocket.Chat. 
+These accounts are unique to the deployed instance of the Rocket.Chat platform. So if information is requested for an individual user account of the platform, this information goes only as far as the scope of that specific, individual instance of Rocket.Chat.
 
 **To identify the proper user account, the specific instance therefore must be named as well \(generally in form of the URL\).**
 

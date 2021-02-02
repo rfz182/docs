@@ -38,7 +38,7 @@ To sort the conversations per Open/Closed Status, choose the desired status in t
 
 ![](../../../.gitbook/assets/5%20%283%29.png)
 
- and your conversations are sorted, as shown below:
+and your conversations are sorted, as shown below:
 
 ![](../../../.gitbook/assets/6%20%283%29.png)
 

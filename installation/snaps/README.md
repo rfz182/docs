@@ -18,7 +18,7 @@ On Ubuntu 16.04LTS, install `snapd` first:
 sudo apt-get install snapd
 ```
 
-To move between different major releases,  from 2.x to 3.x  or from 3.x to 4.x,  take a look at  [snap tracks](https://forums.rocket.chat/t/introducing-snap-tracks/5890).
+To move between different major releases, from 2.x to 3.x or from 3.x to 4.x, take a look at [snap tracks](https://forums.rocket.chat/t/introducing-snap-tracks/5890).
 
 ## FAQ
 

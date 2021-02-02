@@ -9,8 +9,8 @@ _Effective date: July 4th, 2020_
 This Master Services Agreement \(the "**Agreement**"\), is entered as of  
 **\_\_\_** \(the “**Effective Date**”\),  
 by and between **\_\_\_\_**,  
-whose address is _\*\*\_**\_**_**\_;  
-an entity \(“**You,**” “**Your**,” or “**Customer**”\) and Rocket.Chat Technologies Corp. \(“**Rocket.Chat**”\). In this Agreement, Customer and Rocket.Chat may be individually referred to as “**party**” and collectively referred to as “**parties\*\*.”
+whose address is _\*\*\_**\_**_\*\*\_;  
+an entity \(“**You,**” “**Your**,” or “**Customer**”\) and Rocket.Chat Technologies Corp. \(“**Rocket.Chat**”\). In this Agreement, Customer and Rocket.Chat may be individually referred to as “**party**” and collectively referred to as “_\*parties\_\*.”
 
 The Agreement covers the provision of services by Rocket.Chat to You for self-managed \(otherwise known as "on-premise"\) deployment of Rocket.Chat and generally comes with an Order Form that specifies services and product editions. It does explicitly not cover the mere provision of the Community Edition of our product or any other edition of our product which does not come with a reference to this agreement.
 

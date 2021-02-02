@@ -33,5 +33,3 @@ Rocket.Chat has published a pre-filled questionnaire in the STAR-registry of the
 * Last Update: October 2019
 * Use cases: due diligence, security review
 
-
-

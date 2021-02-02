@@ -534,6 +534,7 @@
       * [Agent Info](api/rest-api/methods/livechat/agent.md)
       * [Appearance](api/rest-api/methods/livechat/appearance.md)
       * [Config](api/rest-api/methods/livechat/config.md)
+      * [Contact Center](api/rest-api/methods/livechat/contact-center.md)
       * [Custom Field](api/rest-api/methods/livechat/custom-fields.md)
       * [Department](api/rest-api/methods/livechat/department.md)
       * [Inquiries List](api/rest-api/methods/livechat/inquiries.md)

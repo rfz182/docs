@@ -10,7 +10,7 @@ To access **Custom Fields** settings:
 
 Go to Omnichannel panel settings, as shown below:
 
-![](../../../.gitbook/assets/0%20%288%29%20%285%29%20%285%29%20%285%29%20%285%29.png)
+![](../../../.gitbook/assets/0%20%288%29%20%285%29%20%285%29%20%285%29%20%285%29%20%286%29.png)
 
 Custom Fields menu appears, as shown below:
 
@@ -30,39 +30,39 @@ The following page appears.
 
 ![](../../../.gitbook/assets/4%20%287%29.png)
 
-2. Enter your desired **field** that you want to add to your livechat registration form. E.g., **last-name**
+1. Enter your desired **field** that you want to add to your livechat registration form. E.g., **last-name**
 
 ![](../../../.gitbook/assets/5%20%287%29.png)
 
-3. Enter its label.
+1. Enter its label.
 
 ![](../../../.gitbook/assets/6%20%286%29.png)
 
-4. Select scope as **Visitor**.
+1. Select scope as **Visitor**.
 
 ![](../../../.gitbook/assets/7%20%284%29.png)
 
-5. Make it visible.
+1. Make it visible.
 
 ![](../../../.gitbook/assets/8%20%283%29.png)
 
-6. Set as a required field if you want.
+1. Set as a required field if you want.
 
 ![](../../../.gitbook/assets/9%20%283%29.png)
 
-7. The type of the Last Name field is Input.
+1. The type of the Last Name field is Input.
 
 ![](../../../.gitbook/assets/10%20%282%29.png)
 
-8. Set the default value, if any.
+1. Set the default value, if any.
 
 ![](../../../.gitbook/assets/11%20%282%29.png)
 
-9. Set it **Public**.
+1. Set it **Public**.
 
 ![](../../../.gitbook/assets/12%20%282%29.png)
 
-10. Hit Save.
+1. Hit Save.
 
 ![](../../../.gitbook/assets/13%20%282%29.png)
 
